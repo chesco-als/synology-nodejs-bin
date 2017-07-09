@@ -1,6 +1,6 @@
 {
   "name": "tumblr-toolkit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Tumblr API-based toolkit for batch posts processing.",
   "main": "index.js",
   "dependencies": {
@@ -21,7 +21,12 @@
   "keywords": [
     "tumblr",
     "toolkit",
-    "api"
+    "api",
+    "cli",
+    "403",
+    "access denied",
+    "tag",
+    "post"
   ],
   "author": "Anton Lysenko <achesco@gmail.com> (https://antonlysenko.com/)",
   "engines": {
