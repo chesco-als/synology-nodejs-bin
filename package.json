@@ -29,7 +29,7 @@
     "access denied",
     "tag",
     "post",
-    "clean"
+    "clean",
   ],
   "author": "Anton Lysenko <achesco@gmail.com> (https://antonlysenko.com/)",
   "engines": {
